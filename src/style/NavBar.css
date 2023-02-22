@@ -1,0 +1,33 @@
+.navbar {
+    width: 1063px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    left: 273px;
+    top: 0;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.inner-nav {
+    display: flex;
+    align-items: center;
+    color: rgb(131, 126, 126);
+}
+
+.inner-nav1 {
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+    color: rgb(131, 128, 128);
+}
+.inner-nav1 img {
+    width: 30px ;
+    height: 30px;
+    border-radius: 50px;
+
+}
